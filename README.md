@@ -1,8 +1,27 @@
-# Cobblemon_tracker
-## Python script that uses the minescript library to track loaded cobblemon every 'x' seconds. You can specify which cobblemon get tracked ingame.
+# Cobblemon Tracker
 
-1: For a video tutorial on calling python files in minecraft, see [here](https://medal.tv/games/minecraft/clips/2djOrR0-cHb0_s/d1337xwr68vl?invite=cr-MSwxMnMsMjAwNDk5NzA1LA).
-2: Written guide: call the tracker in minecraft chat with a command, \cobblemon_tracker (cobblemon, example: eevee)
-3: When a request has been put in, you will receive a pop-up in chat every 'x' seconds which will return said cobblemons coordinates (this message is private and will only be visible to you).
+## Python Script for Tracking Cobblemon in Minecraft
 
-(Adding the actual python files on sunday 22-09-2024)
+This script uses the `minescript` library to track loaded Cobblemon every 'x' seconds. You can specify which Cobblemon to track in-game.
+
+### Features
+
+1. **Video Tutorial**: Watch the tutorial on how to call Python files in Minecraft [here](https://medal.tv/games/minecraft/clips/2djOrR0-cHb0_s/d1337xwr68vl?invite=cr-MSwxMnMsMjAwNDk5NzA1LA).
+   
+2. **Written Guide**: Call the tracker in Minecraft chat with the command:
+   
+   ```
+   \cobblemon_tracker (cobblemon)
+   ```
+   
+   Example:
+   
+   ```
+   \cobblemon_tracker eevee
+   ```
+
+3. **Functionality**: Once a request is made, you will receive a private pop-up in chat every 'x' seconds. This will return the coordinates of the specified Cobblemon (only visible to you).
+
+### Python Files
+
+The actual Python files will be added on **Sunday, 22-09-2024**.
