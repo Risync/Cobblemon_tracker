@@ -22,6 +22,3 @@ This script uses the `minescript` library to track loaded Cobblemon every 'x' se
 
 3. **Functionality**: Once a request is made, you will receive a private pop-up in chat every 'x' seconds. This will return the coordinates of the specified Cobblemon (only visible to you).
 
-### Python Files
-
-The actual Python files will be added on **Sunday, 22-09-2024**.
