@@ -11,13 +11,13 @@ This script uses the `minescript` library to track loaded Cobblemon every 'x' se
 2. **Written Guide**: Call the tracker in Minecraft chat with the command:
    
    ```
-   \cobblemon_tracker (cobblemon)
+   \pokemon (cobblemon)
    ```
    
    Example:
    
    ```
-   \cobblemon_tracker eevee
+   \pokemon eevee
    ```
 
 3. **Functionality**: Once a request is made, you will receive a private pop-up in chat every 'x' seconds. This will return the coordinates of the specified Cobblemon (only visible to you).
